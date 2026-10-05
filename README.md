@@ -142,14 +142,6 @@ I regularly share professional content and technical work on LinkedIn:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mrdark-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
