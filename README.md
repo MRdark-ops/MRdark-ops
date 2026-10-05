@@ -41,7 +41,7 @@
 
 ## 🛡️ About Me
 
-I'm a **security-focused developer from Algeria** with a strong interest in cybersecurity, software development, cloud technologies, and modern infrastructure.
+I'm a **Cyber Security architecture from Algeria** with a strong interest in cybersecurity, software development, cloud technologies, and modern infrastructure.
 
 I enjoy exploring technology from both the **development and security perspectives** — building applications, working with cloud environments, and continuously expanding my technical skill set.
 
