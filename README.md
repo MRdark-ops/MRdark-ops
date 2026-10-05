@@ -155,8 +155,9 @@ I regularly share professional content and technical work on LinkedIn:
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mrdark-ops&theme=algolia&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
+    src="https://github-profile-svg.vercel.app/api/profile?username=mrdark-ops&mode=cyberpunk&theme=dark&showLocked=true"
+    alt="GitHub Achievements"
+    width="100%"
   />
 </p>
 
