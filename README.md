@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdark-ops&show_icons=true&locale=en&layout=compact" alt="mrdark-ops" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdark-ops&show_icons=true&locale=en" alt="mrdark-ops" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdark-ops&" alt="mrdark-ops" /></p>
