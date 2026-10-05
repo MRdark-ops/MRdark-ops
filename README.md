@@ -144,8 +144,9 @@ I regularly share professional content and technical work on LinkedIn:
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mrdark-ops&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=mrdark-ops&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
   />
 </p>
 
